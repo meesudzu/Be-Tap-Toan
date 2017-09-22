@@ -19,3 +19,10 @@ Hướng phát triển:
   
   [Video Demo!](https://www.youtube.com/watch?v=odGaGnSms-4)
   
+  [Download Setup File](https://drive.google.com/open?id=0B2XjHVJwd5PSekYwN0ZKc3hsUEk)
+  
+  Sau khi cài đặt, nếu như không thấy shortcut ở ngoài Desktop, các bạn có thể vào đường dẫn này để tìm file exe 
+  ```
+  C:\Program Files\Dzu\BeTapToan
+  ```
+  
