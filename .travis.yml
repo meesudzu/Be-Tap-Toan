@@ -8,4 +8,3 @@ before_install:
 script:
  - qmake -project
  - qmake BeTapToan.pro
- - make
