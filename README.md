@@ -1,4 +1,6 @@
 # Phần Mềm Bé Tập Toán Qt5 C/C++
+[![Build Status](https://travis-ci.org/meesudzu/Be-Tap-Toan.svg?branch=master)](https://travis-ci.org/meesudzu/Be-Tap-Toan)
+
 ( mình public từ 15/03/2016 rồi, mà tận hôm nay (22/09/2017) mới nhớ ra để đưa lên GitHub )
 
 Đây chỉ là bản giao diện thô thôi nhé.
